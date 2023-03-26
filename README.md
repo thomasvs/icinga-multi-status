@@ -8,7 +8,7 @@ Get it from the [Mozilla Firefox Add-ons](https://addons.mozilla.org/en-US/firef
 
 ## Features
 
-- Monitoring of multiple Icinga Instances (Version 1 and 2) using it's JSON data interface and/or API
+- Monitoring of multiple Icinga Instances (Version 1 and 2) using its JSON data interface and/or API
 - Ability to hide/ignore certain host or service patterns and hosts/services with downtimes
 - Configurable refresh time
 - Ability to temporarily disable instances without deleting them
